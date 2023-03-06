@@ -19,6 +19,7 @@ fn main() {
         let guess: u32 = match guess.trim().parse() {
             Ok(guess) => guess,
             Err(err) => {
+                // parse() error type:= ParseIntError
                 println!("{err}");
                 continue;
             }
