@@ -5,5 +5,5 @@ fn main() {
     let y;
     let x = 1;
     let x = y = 6;
-    println!("x: {x:?}, y: {y}");
+    println!("x: {x:?}, y: {y}"); // x: (), y: 6
 }
