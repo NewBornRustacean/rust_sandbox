@@ -1,8 +1,7 @@
-## What HPOHandler does
+## What HPOHandler does(ongoing development)
 - get level of each node in the ontology
 - get MICA(most informative common ancestor)
-- get IC(information contents)
-- ongoing development
+- get IC(information contents) 
 ## Links and Keywords
 - Semantic Search, Concept Normalization, Ontology Mapping
 - [wiki](https://en.wikipedia.org/wiki/Most_recent_common_ancestor)
