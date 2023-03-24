@@ -1,5 +1,4 @@
 extern crate fastobo;
-// extern crate ureq;
 
 fn main() {
     let response = ureq::get("http://purl.obolibrary.org/obo/hp.obo").call();
